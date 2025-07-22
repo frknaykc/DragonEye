@@ -301,7 +301,7 @@ function Invoke-WindowsEnum {
                     Get-Acl -ErrorAction SilentlyContinue |
                     Where-Object { $_.AccessToString -match "Everyone.*Modify|Everyone.*FullControl|BUILTIN\\Users.*Modify|BUILTIN\\Users.*FullControl" }
                 if ($writableFiles) {
-                    Write-Log "Found writable files in $path:" -Type "Warning" -OutputFile $OutputFile
+                    Write-Log ("Found writable files in {0}:" -f $path) -Type "Warning" -OutputFile $OutputFile
                     $writableFiles | Select-Object Path | Format-Table -AutoSize | Out-File -Append -FilePath $OutputFile
                 }
             }
