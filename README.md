@@ -1,6 +1,40 @@
-# 🔍 DragonEye - Advanced System Enumeration Tool
+<p align="center">
+  <img src="assets/images/dragoneye.png" alt="DragonEye Logo" width="200"/>
+</p>
 
-DragonEye is a comprehensive system enumeration and security assessment tool designed for security professionals, penetration testers, and system administrators. It provides detailed system analysis with cross-platform support and generates interactive HTML reports.
+<h1 align="center">DragonEye - Advanced System Enumeration Tool</h1>
+
+<p align="center">
+  <a href="https://github.com/frknaykc/DragonEye/stargazers">
+    <img src="https://img.shields.io/github/stars/frknaykc/DragonEye?style=flat-square" alt="Stars"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye/network/members">
+    <img src="https://img.shields.io/github/forks/frknaykc/DragonEye?style=flat-square" alt="Forks"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye/issues">
+    <img src="https://img.shields.io/github/issues/frknaykc/DragonEye?style=flat-square" alt="Issues"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/frknaykc/DragonEye?style=flat-square" alt="License"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye/releases">
+    <img src="https://img.shields.io/github/v/release/frknaykc/DragonEye?style=flat-square" alt="Release"/>
+  </a>
+  <br>
+  <a href="https://github.com/frknaykc/DragonEye">
+    <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square" alt="Platform Support"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye">
+    <img src="https://img.shields.io/badge/type-Security%20Tool-red?style=flat-square" alt="Project Type"/>
+  </a>
+  <a href="https://github.com/frknaykc/DragonEye">
+    <img src="https://img.shields.io/badge/language-Shell%20Script-yellow?style=flat-square" alt="Language"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>A comprehensive system enumeration and security assessment tool designed for security professionals, penetration testers, and system administrators.</b>
+</p>
 
 ## 🚀 Quick Start
 
